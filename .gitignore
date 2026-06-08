@@ -1,0 +1,11 @@
+# PlatformIO build output
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
